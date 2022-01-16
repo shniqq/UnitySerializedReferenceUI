@@ -1,6 +1,6 @@
 {
     "name": "com.textusgames.serialize-reference-ui",
-    "version": "1.0.0-preview.1",
+    "version": "1.0.0-preview.2",
     "description": "Provides Editor UI to create instances of fields marked with [SerializeReference].",
     "author": "Textus Games",
     "license": "MIT",
